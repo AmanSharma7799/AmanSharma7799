@@ -10,7 +10,7 @@
 
 ### 🧠 About Me
 - 👨‍💻 Passionate **Blockchain Developer** with a focus on **dApps, DeFi**, and **smart contracts**  
-- 🛠️ Skilled in `Solidity`, `Foundry`, `Hardhat`, `JavaScript`, `React.js`, and `Next.js`  
+- 🛠️ Skilled in `Solidity`, `Foundry`, `Hardhat`, `JavaScript`, `Node,js`, `Express.js`, `React.js`, `Next.js`, `Java`, & `Springboot`
 - 🔐 Experienced in building secure, gas-optimized smart contracts  
 - 🎯 Currently exploring ZK tech, rollups, and real-world crypto applications  
 - 🌍 Open to:
@@ -23,7 +23,7 @@
 ### 🚀 Tech Stack & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=solidity,foundry,hardhat,js,ts,react,nextjs,nodejs,git,github,vscode,tailwind,python,figma" />
+  <img src="https://skillicons.dev/icons?i=solidity,js,ts,react,nextjs,nodejs,expressjs,git,github,vscode,tailwind,java" />
 </p>
 
 ---
