@@ -31,7 +31,8 @@
 ### 📫 How to Reach Me
 
 - 📧 Email: aman02468@gmail.com
-
+- 💬 Telegram: https://t.me/aman_sharma_7799
+  
 ---
 
 *Let's build the decentralized future together! 🌐💪*
