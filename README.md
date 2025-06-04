@@ -14,5 +14,5 @@
 
 - 📧 Email: aman02468@gmail.com
 - 💬 Telegram: https://t.me/aman_sharma_7799
-  
+- 🐦 X (Twitter): https://x.com/amansharma7799
 
