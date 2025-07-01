@@ -1,5 +1,8 @@
 <h1 align="center">Hey there 👋, I'm <span style="color:#f39c12;">Aman </span></h1>
 
+### 📈 Portfolio: 
+- [Aman Sharma Portfolio](https://amansharma7799.github.io/modern-portfolio/)
+
 ### 🧠 About Me
 - 👨‍💻 Passionate **Blockchain Developer** with a focus on **dApps, DeFi**, and **smart contracts**  
 - 🛠️ Skilled in `Solidity`, `Foundry`, `Hardhat`, `JavaScript`, `Node,js`, `Express.js`, `React.js`, `Next.js`, `Java`, & `Springboot`
