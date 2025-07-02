@@ -11,7 +11,7 @@
 - 🌍 Open to:
   - 🤝 Collaborations  
   - 🧾 Freelancing projects  
-  - 💼 Full-time/Part-time remote opportunities  
+  - 💼 Full-time/Part-time opportunities  
 
 ### 📫 How to Reach Me
 
