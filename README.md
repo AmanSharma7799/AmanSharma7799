@@ -3,10 +3,10 @@
 ### 📈 Portfolio: [Aman Sharma Portfolio](https://amansharma7799.github.io/modern-portfolio/)
 
 ### 🧠 About Me
-- 👨‍💻 Passionate **Blockchain & Fullstack Developer** with a focus on **dApps, DeFi**, and **smart contracts**  
-- 🛠️ Skilled in `Solidity`, `Foundry`, `Hardhat`, `JavaScript`, `Node,js`, `Express.js`, `React.js`, `Next.js`, `Java`, & `Springboot`
-- 🔐 Experienced in building secure, gas-optimized smart contracts, DEX, Staking contracts, AMM, Yield Farming, etc.  
-- 🎯 Currently exploring ZK tech, rollups, and real-world crypto applications  
+- 👨‍💻 Passionate **Developer** with a focus on **Distributed Systems, Microservices**, and **System Design**  
+- 🛠️ Skilled in `Java`, `Springboot`, `JavaScript`, `Node,js`, `Express.js`, `React.js`, `Next.js`, ``
+- 🔐 Experienced in building secure, scalable, & reliable Distributed Software Sytems
+- 🎯 Currently exploring AI/ML, ZK tech, rollups, and real-world crypto applications  
 - 🌍 Open to: 🤝 Collaborations | 🧾 Freelancing projects | 💼 Full-time/Part-time opportunities  
 
 ### 📫 How to Reach Me 
