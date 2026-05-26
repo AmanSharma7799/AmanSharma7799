@@ -4,7 +4,7 @@
 
 ### 🧠 About Me
 - 👨‍💻 Passionate **Developer** with a focus on **Distributed Systems, Microservices**, and **System Design**  
-- 🛠️ Skilled in `Java`, `Springboot`, `Hibernate`, `MySQL`, `MongoDB`, `Kafka`, `JavaScript`, `Node,js`, `Express.js`, `React.js`, `Next.js`, `Python`, `Ether.js`, `Foundry`
+- 🛠️ Skilled in `Java`, `Springboot`, `Hibernate`, `MySQL`, `MongoDB`, `Kafka`, `JavaScript`, `Node,js`, `Express.js`, `React.js`, `Next.js`, `Python`, `Ether.js`, `Foundry`, `Solidity`
 - 🔐 Experienced in building secure, scalable, & reliable Distributed Software Sytems
 - 🎯 Currently exploring AI/ML, ZK tech, rollups, and real-world crypto applications  
 - 🌍 Open to: 🤝 Collaborations | 🧾 Freelancing projects | 💼 Full-time/Part-time opportunities  
